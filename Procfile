@@ -1,0 +1,1 @@
+web: streamlit run fantasy_football_app.py 
